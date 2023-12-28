@@ -169,4 +169,4 @@ def update_gu(city,country):
 
 if __name__ == '__main__':
     #app.run(debug=True)
-    app.run(host='0.0.0.0',port=8050)
+    app.run(host='0.0.0.0',port=8100)
